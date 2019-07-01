@@ -1,7 +1,7 @@
 # Linzy's Blog
 
 ## vue
-- [] This is a complete item
+- [] this is an incomplete item
 ### deployment in non-root path
 ```javascript
   module.exports = {
@@ -15,4 +15,4 @@
   })
 ```
 > **publicPath in vue.config.js & base in router config**
->vue-cli >=3.3 the key `publicPath` is baseUrl in old version
+>vue-cli >=3.3 the key `publicPath` is `baseUrl` in old version
